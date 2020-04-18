@@ -1,0 +1,23 @@
+ul li {
+    list-style: none;
+}
+
+label {
+    margin-right: 10px;
+    width: 110px;
+}
+
+ul {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+input#button {
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+h5 {
+    width: 500px;
+
+}
