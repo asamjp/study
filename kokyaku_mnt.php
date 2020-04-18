@@ -4,8 +4,10 @@ require_once "./lib/db.php";
 $name = $_POST["name"];
 $email = $_POST["email"];
 $usertype = $_POST["usertype"];
-$msg = $_POST["msg"];
+$msg2 = $_POST["msg"];
 
+
+$aaa = "";
 $sql = "insert into 
             kokyaku_info (
                 kokyaku_name, 
